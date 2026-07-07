@@ -115,7 +115,7 @@ Para manter a organização em alto nível, as tecnologias estão agrupadas por 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaeldoz&color=ff4500&line=ff8c00&point=ffd700&area_color=ff4500&bg_color=0d1117&title_color=ffd700&hide_border=true&area=true" width="100%"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mikaeldoz/mikaeldoz/output/github-contribution-grid-snake-radical.svg" alt="GitHub Streak Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mikaeldoz/mikaeldoz/output/github-contribution-grid-snake-fire.svg" alt="GitHub Streak Snake Fire Edition" width="100%"/>
 </div>
 
 <br/>
